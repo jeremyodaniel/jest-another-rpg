@@ -1,10 +1,9 @@
 {
   "name": "jest-another-rpg",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "jest": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/jeremyodaniel/jest-another-rpg/issues"
   },
-  "homepage": "https://github.com/jeremyodaniel/jest-another-rpg#readme"
+  "homepage": "https://github.com/jeremyodaniel/jest-another-rpg#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
